@@ -114,7 +114,7 @@ opponent = pygame.Rect(10, screen_height/2 - 60, 10, 120)
 ball_speed_x = 6 * random.choice((1,-1))
 ball_speed_y = 6 * random.choice((1,-1))
 player_speed = 0
-opponent_speed = 9
+opponent_speed = 10
 score_time = True
 
 #while loop and handling input
